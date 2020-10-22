@@ -1,0 +1,12 @@
+{
+  "name": "node_js_rest_api",
+  "version": "1.0.0",
+  "description": "Vanilla Node Js REST API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev":"nodemon server.js"
+  },
+  "author": "Gurpreet singh",
+  "license": "ISC"
+}
